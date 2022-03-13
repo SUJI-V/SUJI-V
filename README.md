@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suji v</h1>
-<h3 align="center">A passionate software developer from Kerala.</h3>
+<h3 align="center">A passionate angular/dotnet developer from Kerala.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suji-v&label=Profile%20views&color=0e75b6&style=flat" alt="suji-v" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suji-v" alt="suji-v" /></a> </p>
 
-- 🌱 I’m currently learning **Angular and Dotnet**
+- 🌱 I’m currently learning **Everything**😂😊
 
 - 📫 How to reach me **sujivasanthakumar@gmail.com**
 
