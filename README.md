@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suji-v" alt="suji-v" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Angular and dotnet**
 
 - 📫 How to reach me **sujivasanthakumar@gmail.com**
 
