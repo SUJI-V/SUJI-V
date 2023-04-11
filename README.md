@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suji v</h1>
-<h3 align="center">A passionate fullstack[angular<=>dotnet] developer from Kerala.</h3>
+<h3 align="center">A passionate fullstack [angular | dotnet] developer from Kerala.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suji-v&label=Profile%20views&color=0e75b6&style=flat" alt="suji-v" /> </p>
 
